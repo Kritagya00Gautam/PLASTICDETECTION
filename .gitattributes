@@ -1,0 +1,2 @@
+plastic_dataset/images/** filter=lfs diff=lfs merge=lfs -text
+plastic_dataset/labels/** filter=lfs diff=lfs merge=lfs -text
