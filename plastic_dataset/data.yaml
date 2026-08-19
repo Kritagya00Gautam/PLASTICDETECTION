@@ -1,0 +1,7 @@
+path: C:/Users/krita/ara/plastic_dataset
+train: images/train
+val: images/val
+test: images/test
+
+nc: 10
+names: ['plastic_bottle', 'plastic_cap', 'plastic_cup', 'plastic_bag', 'plastic_wrapper', 'plastic_film', 'plastic_utensil', 'plastic_straw', 'plastic_foam', 'plastic_other']

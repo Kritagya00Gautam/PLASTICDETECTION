@@ -1,0 +1,7 @@
+TACO/
+plastic_dataset/images/
+plastic_dataset/labels/
+runs/
+*.pt
+__pycache__/
+.ipynb_checkpoints/
