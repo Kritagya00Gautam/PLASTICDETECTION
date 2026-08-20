@@ -1,4 +1,4 @@
-path: C:/Users/krita/ara/plastic_dataset
+path: D:/My Codes/PLASTICDETECTION-main/PLASTICDETECTION/plastic_dataset
 train: images/train
 val: images/val
 test: images/test
